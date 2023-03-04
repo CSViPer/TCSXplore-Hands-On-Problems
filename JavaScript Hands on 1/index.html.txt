@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<htmt>
+<head>
+<script src="index.js">
+</script>
+</head>
+<body><input type="button" value="show" onclick="callMe()">
+</body>
+</html>
